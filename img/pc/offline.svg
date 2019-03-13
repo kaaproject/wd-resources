@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71" height="15" viewBox="0 0 71 15">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#9DB4BF" font-family="Lato-Regular, Lato" font-size="14" transform="translate(0 -1)">
+            <tspan x="31.239" y="14">offline</tspan>
+        </text>
+        <path d="M0-1h17v17H0z"/>
+        <path fill="#9DB4BF" fill-rule="nonzero" d="M16.745 3.958c-.319-.24-3.492-2.833-8.245-2.833a13.08 13.08 0 0 0-2.94.34l7.317 7.31 3.868-4.817zM12.07 9.781L2.316.02l-.9.907L2.87 2.386C1.353 3.08.418 3.83.255 3.958l8.238 10.264.007.007.007-.007 2.763-3.442 2.351 2.351.9-.9-2.451-2.45z"/>
+    </g>
+</svg>

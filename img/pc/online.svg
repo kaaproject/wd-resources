@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="15" viewBox="0 0 70 15">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#9DB4BF" font-family="Lato-Regular, Lato" font-size="14" transform="translate(0 -1)">
+            <tspan x="32.072" y="14">online</tspan>
+        </text>
+        <path fill="#90EE90" fill-rule="nonzero" d="M8.51 14.102L16.82 3.75C16.5 3.505 13.299.889 8.5.889S.5 3.505.18 3.75L8.49 14.1h.02z"/>
+        <path d="M0-1h17v17H0z"/>
+    </g>
+</svg>
